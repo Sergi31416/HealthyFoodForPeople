@@ -1,4 +1,16 @@
+a.{
+	color: blue
+}
+
+h4{
+	color: yellow;
+}
+h3{
+	color: yellow;
+}
+
 nav{
+
 
 
 	border:1pt solid #000;
@@ -35,15 +47,23 @@ a:visited{
 	text-decoration: none;
 }
 
+img{
+	height: 200px;
+	width: 200px;
+}
+
 .Facebook{
 	
 position: relative;
+bottom: -100px;
 
 }
 .NameFacebook{
 	
-	
-
+position: relative;
+left: 250px;	
+font-size: 50px;
+top: -80PX;
 }
 
 .Twitter{
@@ -51,6 +71,10 @@ position: relative;
 
 }
 .NameTwitter{
+	position: relative;
+left: 250px;	
+font-size: 50px;
+top: -180PX;
 
 	
 }
@@ -60,13 +84,20 @@ position: relative;
 
 }
 .NameGmail{
-	
+		position: relative;
+left: 250px;	
+font-size: 50px;
+top: -180PX;
 }
 
 .instagram{
 
 }	
 .NameInstagram{
+	position: relative;
+left: 250px;	
+font-size: 50px;
+top: -180PX;
 
 }
 
@@ -76,11 +107,19 @@ position: relative;
 
 .NamePhone{
 
+	position: relative;
+left: 250px;	
+font-size: 50px;
+top: -180PX;
 }
 	
 .Street{
 
 }
 .NameStreet{
+		position: relative;
+left: 250px;	
+font-size: 50px;
+top: -180PX;
 
 }
