@@ -10,6 +10,11 @@ nav{
 	float: center;
 	background: linear-gradient(to right, blue,lightblue);
 
+}
+body{
+background:red;
+}	
+
 	
 	
 
@@ -34,5 +39,5 @@ a:visited{
 	text-decoration: none;
 }
 .FatBoy{
-	float: center;
+	
 }
