@@ -16,12 +16,7 @@ background:red;
 }	
 
 	
-	
 
-
-
-
-}
 
 h1{
 	border:1pt solid #000;
@@ -31,12 +26,61 @@ h1{
 	text-align: center;
 	font-size: 28pt; 
 	margin: 0px auto;
-	 color:linear-gradient(to right, blue,lightblue);
+	color:linear-gradient(to right, blue,lightblue);
 
 }
+
 a:visited{
 	color: yellow;
 	text-decoration: none;
 }
 
+.Facebook{
+	
+position: relative;
+left: -500px;
+}
+.NameFacebook{
+	
+	
 
+}
+
+.Twitter{
+
+
+}
+.NameTwitter{
+
+	
+}
+.Gmail{
+	
+
+
+}
+.NameGmail{
+	
+}
+
+.instagram{
+
+}	
+.NameInstagram{
+
+}
+
+.Phone{
+
+}
+
+.NamePhone{
+
+}
+	
+.Street{
+
+}
+.NameStreet{
+
+}
