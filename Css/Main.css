@@ -1,0 +1,36 @@
+nav{
+
+
+	border:1pt solid #000;
+	width: 500px;
+	height: 100px;
+
+	text-align: center;
+	font-size: 28pt; 
+	margin: 0px auto;
+	float: center;
+	background: linear-gradient(to right, blue,lightblue);
+
+	
+	
+
+
+
+
+}
+
+h1{
+	border:1pt solid #000;
+	width: 1500px;
+	height: 100px;
+	background-color: green;
+	text-align: center;
+	font-size: 28pt; 
+	margin: 0px auto;
+	 color:linear-gradient(to right, blue,lightblue);
+
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
