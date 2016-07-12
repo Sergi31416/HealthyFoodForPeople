@@ -117,9 +117,16 @@ top: -180PX;
 
 }
 .NameStreet{
-		position: relative;
+position: relative;
 left: 250px;	
 font-size: 50px;
 top: -180PX;
 
+}
+
+.center{
+	position: relative;
+	right: -590px;
+	height: 300px;
+	width: 300px;
 }
